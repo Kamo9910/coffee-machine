@@ -40,7 +40,7 @@ How many quarters?: 10
 How many dimes?: 0
 How many nickles?: 0
 How many pennies?: 0
-Here is $0.0 in change.
+Here is R0.0 in change.
 Here is your latte ☕. Enjoy!
 ```
 
